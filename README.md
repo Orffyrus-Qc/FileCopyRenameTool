@@ -2,6 +2,8 @@
 
 **File Copy & Rename Tool** — A simple but smart Windows utility for copying files with intelligent conflict handling.
 
+![Main Window](screenshots/main-window.png)
+
 ## Features
 
 - Select multiple source files and a destination folder
@@ -50,4 +52,3 @@ Created by **Orffyrus**.
 ---
 
 If you have suggestions, bug reports, or would like to see the source code added, feel free to open an issue.
-
